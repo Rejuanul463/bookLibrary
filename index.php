@@ -63,6 +63,14 @@
 <body>
 
     <div class="container">
+
+        <form action="read.php">
+            <button type="submit">Show Books</button>
+        </form>
+        
+    </div>
+
+    <div class="container">
         <h1>Book Management</h1>
 
         <h2>Search Books</h2>
@@ -97,13 +105,7 @@
 
     
 
-    <div class="container">
-
-        <form action="read.php">
-        <button type="submit">Show List</button>
-        </form>
-        
-    </div>
+    
 
 
 </body>
